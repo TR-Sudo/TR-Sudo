@@ -1,7 +1,7 @@
 Hi 👋 My name is Talha Al Rashid
 ================================
 
-Back-End Software Development
+Software Development
 -----------------------------
 
 Hi, I am a recent graduate with honours in Computer Science. I look forward to gaining experience and showcasing my expertise in the field of software development. Contact me at t.rashid489@gmail.com or direct message on LinkedIn.
