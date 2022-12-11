@@ -8,7 +8,7 @@ Hi, I am a recent graduate with honours in Computer Science. I look forward to g
 
 * 🌍  I'm based in Greater Toronto Area
 * ✉️  You can contact me at [T.Rashid489@gmail.com](mailto:T.Rashid489@gmail.com)
-* 🧠  I'm learning React for Full-Stack Web development
+* 🧠  I'm learning React for Back-End Web development
 * 🤝  I'm open to collaborating on Mobile Applications, Websites and or Open-Source Projects
 
 ### Skills
