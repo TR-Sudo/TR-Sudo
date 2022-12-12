@@ -8,7 +8,7 @@ Hi, as a recent Computer Science honors graduate, I am eager to gain experience 
 
 * 🌍  I'm based in Greater Toronto Area
 * ✉️  You can contact me at [T.Rashid489@gmail.com](mailto:T.Rashid489@gmail.com)
-* 🧠  I'm learning React for Back-End Web development
+* 🧠  I'm learning React as a Framework
 * 🤝  I'm open to collaborating on Mobile Applications, Websites and or Open-Source Projects
 
 ### Skills
