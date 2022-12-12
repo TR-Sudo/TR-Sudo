@@ -4,7 +4,7 @@ Hi 👋 My name is Talha Al Rashid
 Software Development
 -----------------------------
 
-Hi, I am a recent graduate with honours in Computer Science. I look forward to gaining experience and showcasing my expertise in the field of software development. Contact me at t.rashid489@gmail.com or direct message on LinkedIn.
+Hi, as a recent Computer Science honors graduate, I am eager to gain experience and demonstrate my skills in software development. Please feel free to contact me at t.rashid489@gmail.com or connect with me on LinkedIn to discuss potential opportunities.
 
 * 🌍  I'm based in Greater Toronto Area
 * ✉️  You can contact me at [T.Rashid489@gmail.com](mailto:T.Rashid489@gmail.com)
