@@ -34,4 +34,7 @@ Hi, as a recent computer science honors graduate, I am eager to gain experience 
 </p>
 
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo&" alt="tr-sudo" /></p>
+
 <p align="left"> <a href="https://www.github.com/TR-Sudo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/talha-rashid-489tr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
