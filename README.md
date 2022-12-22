@@ -33,7 +33,7 @@ Hi, as a recent computer science honors graduate, I am eager to gain experience 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/> </a>
 </p>
 
-
+# Contributions 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr-sudo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo&theme=chartreuse-dark" alt="tr-sudo" /></p>
 
