@@ -38,4 +38,6 @@ Hi, as a recent computer science honors graduate, I am eager to gain experience 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr-sudo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
 # Socials
-<p align="left"> <a href="https://www.github.com/TR-Sudo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/talha-rashid-489tr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="talha-rashid-489tr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/talha-rashid-489tr?trk=profile-badge">Talha Al Rashid</a></div>
+              
