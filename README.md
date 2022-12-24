@@ -38,5 +38,5 @@ Hi, as a recent computer science honors graduate, I am eager to gain experience 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr-sudo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
 # Socials
-<p><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/talha-rashid-489tr/"/></p>
+<a href="https://www.linkedin.com/in/talha-rashid-489tr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
               
