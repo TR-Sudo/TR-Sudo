@@ -1,7 +1,7 @@
 Hi 👋 My name is Talha Al Rashid
 ================================
 
-Software Development
+Software Development Engineer
 -----------------------------
 
 Hi, as a recent computer science honors graduate, I am eager to gain experience and demonstrate my skills in software development. Please feel free to contact me at t.rashid489@gmail.com or connect with me on LinkedIn through direct messaging. 
