@@ -1,4 +1,4 @@
-Hi 👋 My name is Talha Al Rashid
+Talha Al Rashid
 ================================
 
 Software Development Engineer
