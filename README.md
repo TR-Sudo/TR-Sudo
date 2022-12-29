@@ -4,7 +4,7 @@ Hi 👋 My name is Talha Al Rashid
 Software Development Engineer
 -----------------------------
 
-I am a recent graduate from Ontario Tech University, where I studied Computer Science. I am excited to continue my career in this field and put my skills and knowledge to use. I have always been passionate about using technology to solve problems and make a positive impact in the world. During my time at Ontario Tech University, I gained valuable experience through coursework and projects.
+Hi, as a recent computer science honors graduate. I am excited to continue my career in this field and put my skills and knowledge to use. I have always been passionate about using technology to solve problems and make a positive impact in the world. Feel free to contact me at t.rashid489@gmail.com or connect with me on LinkedIn through direct messaging.  
 
 * 🌍  I'm based in Greater Toronto Area
 * ✉️  You can contact me at [T.Rashid489@gmail.com](mailto:T.Rashid489@gmail.com)
