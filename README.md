@@ -1,4 +1,4 @@
-Talha Al Rashid
+Hi 👋 My name is Talha Al Rashid
 ================================
 
 Software Development Engineer
@@ -35,7 +35,7 @@ Hi, as a recent computer science honors graduate, I am eager to gain experience 
 
 # Contributions 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo&theme=chartreuse-dark" alt="tr-sudo" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr-sudo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
+<p><img align="center" src="https://github-readme-stats-black-eta.vercel.app/api/top-langs?username=tr-sudo&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
 # Socials
 <a href="https://www.linkedin.com/in/talha-rashid-489tr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
