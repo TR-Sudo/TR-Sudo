@@ -4,7 +4,7 @@ Hi 👋 My name is Talha Al Rashid
 Software Development Engineer
 -----------------------------
 
-Hi, as a recent computer science honors graduate. I am excited to continue my career in this field and put my skills and knowledge to use. I have always been passionate about using technology to solve problems and make a positive impact in the world. Feel free to contact me at t.rashid489@gmail.com or connect with me on LinkedIn through direct messaging.  
+Hi, as a recent computer science honors graduate. I am excited to continue my career in this field and put my skills and knowledge to use. I have always been passionate about using technology to solve problems and make a positive impact in the world. Feel free to contact me at t.rashid489@gmail.com.  
 
 * 🌍  I'm based in Greater Toronto Area
 * 🧠  I'm currently working on making a Discord Bot (MyTime), and image recognition application using Tensorflow
