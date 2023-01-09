@@ -7,7 +7,7 @@ Software Development Engineer
 Hi, as a recent computer science honors graduate. I am excited to continue my career in this field and put my skills and knowledge to use. I have always been passionate about using technology to solve problems and make a positive impact in the world. Feel free to contact me at t.rashid489@gmail.com.  
 
 * 🌍  I'm based in Greater Toronto Area
-* 🧠  I'm currently working on making a animal image recognition application using Tensorflow
+* 📖  I'm currently working on making a animal image recognition application using Tensorflow 
 * 🤝  I'm open to collaborating on Mobile Applications, Websites and or Open-Source Projects
 
 # 💻 Tech Stack:
