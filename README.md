@@ -23,11 +23,11 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 
 
 # Contributions 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo" alt="tr-sudo" /></p>
-<p><img align="left" src="https://github-readme-stats-black-eta.vercel.app/api/top-langs?username=tr-sudo&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo" alt="tr-sudo" /></p>
+<p><img src="https://github-readme-stats-black-eta.vercel.app/api/top-langs?username=tr-sudo&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
 # Visitors 
+<p><img align="left" src="https://komarev.com/ghpvc/?username=tr-sudo&style=plastic" alt="tr-sudo" /></p>
 
-![](https://komarev.com/ghpvc/?username=tr-sudo&style=plastic)
 
               
