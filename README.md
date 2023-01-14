@@ -21,12 +21,17 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 | Markdown Languages |![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)|
 | Server Tool | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)|
 
+# Symbols:
+|| Identifies |
+|:---|:---|
+|⚡| Deployed Application|
+|👷| Hard at work, putting the finishing touches on|
 
-# Contributions 
+# Contributions: 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo" alt="tr-sudo" /></p>
 <p><img src="https://github-readme-stats-black-eta.vercel.app/api/top-langs?username=tr-sudo&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
-# Visitors 
+# Visitors: 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=tr-sudo&style=plastic" alt="tr-sudo" /></p>
 
 
