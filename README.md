@@ -25,7 +25,7 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 || Identifies |
 |:---|:---|
 |⚡| Deployed Application|
-|👷| Hard at work, putting the finishing touches on|
+|👷| Currently in development, adding the finishing touches|
 
 # Contributions: 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo" alt="tr-sudo" /></p>
