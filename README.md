@@ -21,6 +21,13 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 | Markdown Languages |![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)|
 | Server Tool | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)|
 
+# Certifications: 
+| | Certification |
+|:---| :---:|
+|AWS|Certified Developer - Associate|
+||<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width=250px height=250px/>|
+
+
 # Symbols:
 || Identifies |
 |:---|:---|
