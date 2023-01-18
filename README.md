@@ -25,7 +25,7 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 | | Certification |
 |:---| :---:|
 |AWS|Certified Developer - Associate|
-||<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width=250px height=250px/>|
+||<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width=150px height=150px/>|
 
 
 # Symbols:
