@@ -36,7 +36,7 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 
 # Contributions: 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tr-sudo" alt="tr-sudo" /></p>
-<p><img src="https://github-readme-stats-one-sage-80.vercel.app/api/top-langs?username=tr-sudo&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/?username=tr-sudo&ver=2)&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
 
               
