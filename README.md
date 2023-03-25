@@ -35,8 +35,8 @@ Hi, as a recent computer science honors graduate. I am excited to continue my ca
 |👷| Currently in development, adding the finishing touches|
 
 # Contributions: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr-sudo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <p><img src="https://github-readme-stats.vercel.app/api/?username=tr-sudo&ver=2)&show_icons=true&locale=en&layout=compact" alt="tr-sudo" background-color="black" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tr-sudo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
               
