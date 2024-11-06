@@ -4,7 +4,7 @@ Hi 👋 My name is Talha Al Rashid
 Software Development Engineer
 -----------------------------
 
-Hi, as a recent computer science honors graduate. I am excited to continue my career in this field and put my skills and knowledge to use. I have always been passionate about using technology to solve problems and make a positive impact in the world. Feel free to contact me at t.rashid489@gmail.com.  
+I'm a web developer with a BSc in Computer Science, specializing in full-stack web applications. Skilled in ReactJS, JavaScript, and AWS, I create scalable, user-centered solutions with expertise in MySQL, DynamoDB, and modern deployment pipelines. My portfolio includes responsive projects on AWS, with Firebase integration and CI/CD pipelines. I'm an AWS Certified Developer Associate (2022), passionate about building secure, high-performing applications. Feel free to contact me at t.rashid489@gmail.com.  
 
 * 🌍  I'm based in Greater Toronto Area
 * 📖  I'm currently working on making a Flutter application that helps users in identifying plant spieces using tensorflow
