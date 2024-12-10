@@ -7,7 +7,7 @@ Software Development Engineer
 I'm a web developer with a BSc in Computer Science, specializing in full-stack web applications. Skilled in ReactJS, JavaScript, and AWS, I create scalable, user-centered solutions with expertise in MySQL, DynamoDB, and modern deployment pipelines. My portfolio includes responsive projects on AWS, with Firebase integration and CI/CD pipelines. I'm an AWS Certified Developer Associate (2022), passionate about building secure, high-performing applications. Feel free to contact me at t.rashid489@gmail.com.  
 
 * 🌍  I'm based in Greater Toronto Area
-* 📖  I'm currently working on making a Flutter application that helps users in identifying plant spieces using tensorflow
+* 📖  I'm currently working on making a Full-Stack Web Application to make stock equity lookups easier
 * 🤝  I'm open to collaborating on Mobile Applications, Websites and or Open-Source Projects
 
 # 💻 Tech Stack:
