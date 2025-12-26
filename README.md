@@ -26,7 +26,10 @@ I am a data-focused professional with a BSc in Computer Science and a strong fou
 |:---| :---:|
 |AWS|Certified Developer - Associate|
 ||<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width=150px height=150px/>|
-
+|Nvidia|Fundamentals of Accelerated Computing with CUDA Python|
+||<img src="https://www.nvidia.com/content/dam/en-zz/Solutions/about-nvidia/logo-and-brand/02-nvidia-logo-color-grn-500x200-4c25-p@2x.png" width=170px height=150px/>|
+|Google|Google AI Essentials|
+||<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_Favicon_2025.svg/250px-Google_Favicon_2025.svg.png" width=150px height=150px/>|
 
 # Symbols:
 || Identifies |
