@@ -7,7 +7,7 @@ Data Analyst
 I am a data-focused professional with a BSc in Computer Science and a strong foundation in analyzing, managing, and visualizing data to drive informed decisions. I have experience working with relational and NoSQL databases such as MySQL and DynamoDB, building data pipelines, and deploying data-driven solutions on AWS. My background in JavaScript and modern web technologies enables me to translate complex datasets into clear, user-centered insights through dashboards and analytical tools. I am familiar with cloud-based workflows, CI/CD pipelines, and integrating data from platforms like Firebase. As an AWS Certified Developer – Associate (2022), I bring a strong understanding of scalable, secure data systems and a passion for turning data into actionable insights. Feel free to contact me at t.rashid489@gmail.com
 
 * 🌍  I'm based in Greater Toronto Area
-* 📖  I'm currently working on making a Full-Stack Web Application to make stock equity lookups easier
+* 📖  I'm currently working on a data sets from Maven Analytics
 * 🤝  I'm open to collaborating on Mobile Applications, Websites and or Open-Source Projects
 
 # 💻 Tech Stack:
